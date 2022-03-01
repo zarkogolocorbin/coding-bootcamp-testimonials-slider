@@ -4,7 +4,7 @@
 
 ## Links:
 
-Live Site URL: [Live site of the challenge hosted here]()
+Live Site URL: [Live site of the challenge hosted here](https://zarkogolocorbin.github.io/coding-bootcamp-testimonials-slider/)
 
 ## Build with:
 
